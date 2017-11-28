@@ -1,0 +1,8 @@
+Categories:
+<input [(ngModel)]="filterStrings" />
+{{ categories_object }}
+
+<h2>Overview</h2>
+<div *ngFor="let d of (categories_object | filter: filterStrings)">
+  {{ d }}
+</div>
