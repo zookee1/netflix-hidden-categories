@@ -1,0 +1,842 @@
+[
+    {
+        "name": "Action & Adventure",
+        "magic_number": "1365"
+    },
+    {
+        "name": "Action Comedies",
+        "magic_number": "43040"
+    },
+    {
+        "name": "Action Sci-Fi & Fantasy",
+        "magic_number": "1568"
+    },
+    {
+        "name": "Action Thrillers",
+        "magic_number": "43048"
+    },
+    {
+        "name": "Adult Animation",
+        "magic_number": "11881"
+    },
+    {
+        "name": "Adventures",
+        "magic_number": "7442"
+    },
+    {
+        "name": "African Movies",
+        "magic_number": "3761"
+    },
+    {
+        "name": "Alien Sci-Fi",
+        "magic_number": "3327"
+    },
+    {
+        "name": "Animal Tales",
+        "magic_number": "5507"
+    },
+    {
+        "name": "Anime",
+        "magic_number": "7424"
+    },
+    {
+        "name": "Anime Action",
+        "magic_number": "2653"
+    },
+    {
+        "name": "Anime Comedies",
+        "magic_number": "9302"
+    },
+    {
+        "name": "Anime Dramas",
+        "magic_number": "452"
+    },
+    {
+        "name": "Anime Fantasy",
+        "magic_number": "11146"
+    },
+    {
+        "name": "Anime Features",
+        "magic_number": "3063"
+    },
+    {
+        "name": "Anime Horror",
+        "magic_number": "10695"
+    },
+    {
+        "name": "Anime Sci-Fi",
+        "magic_number": "2729"
+    },
+    {
+        "name": "Anime Series",
+        "magic_number": "6721"
+    },
+    {
+        "name": "Art House Movies",
+        "magic_number": "29764"
+    },
+    {
+        "name": "Asian Action Movies",
+        "magic_number": "77232"
+    },
+    {
+        "name": "Australian Movies",
+        "magic_number": "5230"
+    },
+    {
+        "name": "B-Horror Movies",
+        "magic_number": "8195"
+    },
+    {
+        "name": "Baseball Movies",
+        "magic_number": "12339"
+    },
+    {
+        "name": "Basketball Movies",
+        "magic_number": "12762"
+    },
+    {
+        "name": "Belgian Movies",
+        "magic_number": "262"
+    },
+    {
+        "name": "Biographical Documentaries",
+        "magic_number": "3652"
+    },
+    {
+        "name": "Biographical Dramas",
+        "magic_number": "3179"
+    },
+    {
+        "name": "Boxing Movies",
+        "magic_number": "12443"
+    },
+    {
+        "name": "British Movies",
+        "magic_number": "10757"
+    },
+    {
+        "name": "British TV Shows",
+        "magic_number": "52117"
+    },
+    {
+        "name": "Campy Movies",
+        "magic_number": "1252"
+    },
+    {
+        "name": "Children & Family Movies",
+        "magic_number": "783"
+    },
+    {
+        "name": "Chinese Movies",
+        "magic_number": "3960"
+    },
+    {
+        "name": "Classic Action & Adventure",
+        "magic_number": "46576"
+    },
+    {
+        "name": "Classic Comedies",
+        "magic_number": "31694"
+    },
+    {
+        "name": "Classic Dramas",
+        "magic_number": "29809"
+    },
+    {
+        "name": "Classic Foreign Movies",
+        "magic_number": "32473"
+    },
+    {
+        "name": "Classic Movies",
+        "magic_number": "31574"
+    },
+    {
+        "name": "Classic Musicals",
+        "magic_number": "32392"
+    },
+    {
+        "name": "Classic Romantic Movies",
+        "magic_number": "31273"
+    },
+    {
+        "name": "Classic Sci-Fi & Fantasy",
+        "magic_number": "47147"
+    },
+    {
+        "name": "Classic Thrillers",
+        "magic_number": "46588"
+    },
+    {
+        "name": "Classic TV Shows",
+        "magic_number": "46553"
+    },
+    {
+        "name": "Classic War Movies",
+        "magic_number": "48744"
+    },
+    {
+        "name": "Classic Westerns",
+        "magic_number": "47465"
+    },
+    {
+        "name": "Comedies",
+        "magic_number": "6548"
+    },
+    {
+        "name": "Comic Book and Superhero Movies",
+        "magic_number": "10118"
+    },
+    {
+        "name": "Country & Western/Folk",
+        "magic_number": "1105"
+    },
+    {
+        "name": "Courtroom Dramas",
+        "magic_number": "2748"
+    },
+    {
+        "name": "Creature Features",
+        "magic_number": "6895"
+    },
+    {
+        "name": "Crime Action & Adventure",
+        "magic_number": "9584"
+    },
+    {
+        "name": "Crime Documentaries",
+        "magic_number": "9875"
+    },
+    {
+        "name": "Crime Dramas",
+        "magic_number": "6889"
+    },
+    {
+        "name": "Crime Thrillers",
+        "magic_number": "10499"
+    },
+    {
+        "name": "Crime TV Shows",
+        "magic_number": "26146"
+    },
+    {
+        "name": "Cult Comedies",
+        "magic_number": "9434"
+    },
+    {
+        "name": "Cult Horror Movies",
+        "magic_number": "10944"
+    },
+    {
+        "name": "Cult Movies",
+        "magic_number": "7627"
+    },
+    {
+        "name": "Cult Sci-Fi & Fantasy",
+        "magic_number": "4734"
+    },
+    {
+        "name": "Cult TV Shows",
+        "magic_number": "74652"
+    },
+    {
+        "name": "Dark Comedies",
+        "magic_number": "869"
+    },
+    {
+        "name": "Deep Sea Horror Movies",
+        "magic_number": "45028"
+    },
+    {
+        "name": "Disney",
+        "magic_number": "67673"
+    },
+    {
+        "name": "Disney Musicals",
+        "magic_number": "59433"
+    },
+    {
+        "name": "Documentaries",
+        "magic_number": "6839"
+    },
+    {
+        "name": "Dramas",
+        "magic_number": "5763"
+    },
+    {
+        "name": "Dramas based on Books",
+        "magic_number": "4961"
+    },
+    {
+        "name": "Dramas based on real life",
+        "magic_number": "3653"
+    },
+    {
+        "name": "Dutch Movies",
+        "magic_number": "10606"
+    },
+    {
+        "name": "Eastern European Movies",
+        "magic_number": "5254"
+    },
+    {
+        "name": "Education for Kids",
+        "magic_number": "10659"
+    },
+    {
+        "name": "Epics",
+        "magic_number": "52858"
+    },
+    {
+        "name": "Experimental Movies",
+        "magic_number": "11079"
+    },
+    {
+        "name": "Faith & Spirituality",
+        "magic_number": "26835"
+    },
+    {
+        "name": "Faith & Spirituality Movies",
+        "magic_number": "52804"
+    },
+    {
+        "name": "Family Features",
+        "magic_number": "51056"
+    },
+    {
+        "name": "Fantasy Movies",
+        "magic_number": "9744"
+    },
+    {
+        "name": "Film Noir",
+        "magic_number": "7687"
+    },
+    {
+        "name": "Food & Travel TV",
+        "magic_number": "72436"
+    },
+    {
+        "name": "Football Movies",
+        "magic_number": "12803"
+    },
+    {
+        "name": "Foreign Action & Adventure",
+        "magic_number": "11828"
+    },
+    {
+        "name": "Foreign Comedies",
+        "magic_number": "4426"
+    },
+    {
+        "name": "Foreign Documentaries",
+        "magic_number": "5161"
+    },
+    {
+        "name": "Foreign Dramas",
+        "magic_number": "2150"
+    },
+    {
+        "name": "Foreign Gay & Lesbian Movies",
+        "magic_number": "8243"
+    },
+    {
+        "name": "Foreign Horror Movies",
+        "magic_number": "8654"
+    },
+    {
+        "name": "Foreign Movies",
+        "magic_number": "7462"
+    },
+    {
+        "name": "Foreign Sci-Fi & Fantasy",
+        "magic_number": "6485"
+    },
+    {
+        "name": "Foreign Thrillers",
+        "magic_number": "10306"
+    },
+    {
+        "name": "French Movies",
+        "magic_number": "58807"
+    },
+    {
+        "name": "Gangster Movies",
+        "magic_number": "31851"
+    },
+    {
+        "name": "Gay & Lesbian Dramas",
+        "magic_number": "500"
+    },
+    {
+        "name": "German Movies",
+        "magic_number": "58886"
+    },
+    {
+        "name": "Greek Movies",
+        "magic_number": "61115"
+    },
+    {
+        "name": "Historical Documentaries",
+        "magic_number": "5349"
+    },
+    {
+        "name": "Horror Comedy",
+        "magic_number": "89585"
+    },
+    {
+        "name": "Horror Movies",
+        "magic_number": "8711"
+    },
+    {
+        "name": "Independent Action & Adventure",
+        "magic_number": "11804"
+    },
+    {
+        "name": "Independent Comedies",
+        "magic_number": "4195"
+    },
+    {
+        "name": "Independent Dramas",
+        "magic_number": "384"
+    },
+    {
+        "name": "Independent Movies",
+        "magic_number": "7077"
+    },
+    {
+        "name": "Independent Thrillers",
+        "magic_number": "3269"
+    },
+    {
+        "name": "Indian Movies",
+        "magic_number": "10463"
+    },
+    {
+        "name": "Irish Movies",
+        "magic_number": "58750"
+    },
+    {
+        "name": "Italian Movies",
+        "magic_number": "8221"
+    },
+    {
+        "name": "Japanese Movies",
+        "magic_number": "10398"
+    },
+    {
+        "name": "Jazz & Easy Listening",
+        "magic_number": "10271"
+    },
+    {
+        "name": "Kids Faith & Spirituality",
+        "magic_number": "751423"
+    },
+    {
+        "name": "Kids Music",
+        "magic_number": "52843"
+    },
+    {
+        "name": "Kids’ TV",
+        "magic_number": "27346"
+    },
+    {
+        "name": "Korean Movies",
+        "magic_number": "5685"
+    },
+    {
+        "name": "Korean TV Shows",
+        "magic_number": "67879"
+    },
+    {
+        "name": "Late Night Comedies",
+        "magic_number": "1402"
+    },
+    {
+        "name": "Latin American Movies",
+        "magic_number": "1613"
+    },
+    {
+        "name": "Latin Music",
+        "magic_number": "10741"
+    },
+    {
+        "name": "Martial Arts Movies",
+        "magic_number": "8985"
+    },
+    {
+        "name": "Martial Arts, Boxing & Wrestling",
+        "magic_number": "6695"
+    },
+    {
+        "name": "Middle Eastern Movies",
+        "magic_number": "5875"
+    },
+    {
+        "name": "Military Action & Adventure",
+        "magic_number": "2125"
+    },
+    {
+        "name": "Military Documentaries",
+        "magic_number": "4006"
+    },
+    {
+        "name": "Military Dramas",
+        "magic_number": "11"
+    },
+    {
+        "name": "Military TV Shows",
+        "magic_number": "25804"
+    },
+    {
+        "name": "Miniseries",
+        "magic_number": "4814"
+    },
+    {
+        "name": "Mockumentaries",
+        "magic_number": "26"
+    },
+    {
+        "name": "Monster Movies",
+        "magic_number": "947"
+    },
+    {
+        "name": "Movies based on children’s books",
+        "magic_number": "10056"
+    },
+    {
+        "name": "Movies for ages 0 to 2",
+        "magic_number": "6796"
+    },
+    {
+        "name": "Movies for ages 2 to 4",
+        "magic_number": "6218"
+    },
+    {
+        "name": "Movies for ages 5 to 7",
+        "magic_number": "5455"
+    },
+    {
+        "name": "Movies for ages 8 to 10",
+        "magic_number": "561"
+    },
+    {
+        "name": "Movies for ages 11 to 12",
+        "magic_number": "6962"
+    },
+    {
+        "name": "Music & Concert Documentaries",
+        "magic_number": "90361"
+    },
+    {
+        "name": "Music",
+        "magic_number": "1701"
+    },
+    {
+        "name": "Musicals",
+        "magic_number": "13335"
+    },
+    {
+        "name": "Mysteries",
+        "magic_number": "9994"
+    },
+    {
+        "name": "New Zealand Movies",
+        "magic_number": "63782"
+    },
+    {
+        "name": "Period Pieces",
+        "magic_number": "12123"
+    },
+    {
+        "name": "Political Comedies",
+        "magic_number": "2700"
+    },
+    {
+        "name": "Political Documentaries",
+        "magic_number": "7018"
+    },
+    {
+        "name": "Political Dramas",
+        "magic_number": "6616"
+    },
+    {
+        "name": "Political Thrillers",
+        "magic_number": "10504"
+    },
+    {
+        "name": "Psychological Thrillers",
+        "magic_number": "5505"
+    },
+    {
+        "name": "Quirky Romance",
+        "magic_number": "36103"
+    },
+    {
+        "name": "Reality TV",
+        "magic_number": "9833"
+    },
+    {
+        "name": "Religious Documentaries",
+        "magic_number": "10005"
+    },
+    {
+        "name": "Rock & Pop Concerts",
+        "magic_number": "3278"
+    },
+    {
+        "name": "Romantic Comedies",
+        "magic_number": "5475"
+    },
+    {
+        "name": "Romantic Dramas",
+        "magic_number": "1255"
+    },
+    {
+        "name": "Romantic Favorites",
+        "magic_number": "502675"
+    },
+    {
+        "name": "Romantic Foreign Movies",
+        "magic_number": "7153"
+    },
+    {
+        "name": "Romantic Independent Movies",
+        "magic_number": "9916"
+    },
+    {
+        "name": "Romantic Movies",
+        "magic_number": "8883"
+    },
+    {
+        "name": "Russian",
+        "magic_number": "11567"
+    },
+    {
+        "name": "Satanic Stories",
+        "magic_number": "6998"
+    },
+    {
+        "name": "Satires",
+        "magic_number": "4922"
+    },
+    {
+        "name": "Scandinavian Movies",
+        "magic_number": "9292"
+    },
+    {
+        "name": "Sci-Fi & Fantasy",
+        "magic_number": "1492"
+    },
+    {
+        "name": "Sci-Fi Adventure",
+        "magic_number": "6926"
+    },
+    {
+        "name": "Sci-Fi Dramas",
+        "magic_number": "3916"
+    },
+    {
+        "name": "Sci-Fi Horror Movies",
+        "magic_number": "1694"
+    },
+    {
+        "name": "Sci-Fi Thrillers",
+        "magic_number": "11014"
+    },
+    {
+        "name": "Science & Nature Documentaries",
+        "magic_number": "2595"
+    },
+    {
+        "name": "Science & Nature TV",
+        "magic_number": "52780"
+    },
+    {
+        "name": "Screwball Comedies",
+        "magic_number": "9702"
+    },
+    {
+        "name": "Showbiz Dramas",
+        "magic_number": "5012"
+    },
+    {
+        "name": "Showbiz Musicals",
+        "magic_number": "13573"
+    },
+    {
+        "name": "Silent Movies",
+        "magic_number": "53310"
+    },
+    {
+        "name": "Slapstick Comedies",
+        "magic_number": "10256"
+    },
+    {
+        "name": "Slasher and Serial Killer Movies",
+        "magic_number": "8646"
+    },
+    {
+        "name": "Soccer Movies",
+        "magic_number": "12549"
+    },
+    {
+        "name": "Social & Cultural Documentaries",
+        "magic_number": "3675"
+    },
+    {
+        "name": "Social Issue Dramas",
+        "magic_number": "3947"
+    },
+    {
+        "name": "Southeast Asian Movies",
+        "magic_number": "9196"
+    },
+    {
+        "name": "Spanish Movies",
+        "magic_number": "58741"
+    },
+    {
+        "name": "Spiritual Documentaries",
+        "magic_number": "2760"
+    },
+    {
+        "name": "Sports & Fitness",
+        "magic_number": "9327"
+    },
+    {
+        "name": "Sports Comedies",
+        "magic_number": "5286"
+    },
+    {
+        "name": "Sports Documentaries",
+        "magic_number": "180"
+    },
+    {
+        "name": "Sports Dramas",
+        "magic_number": "7243"
+    },
+    {
+        "name": "Sports Movies",
+        "magic_number": "4370"
+    },
+    {
+        "name": "Spy Action & Adventure",
+        "magic_number": "10702"
+    },
+    {
+        "name": "Spy Thrillers",
+        "magic_number": "9147"
+    },
+    {
+        "name": "Stage Musicals",
+        "magic_number": "55774"
+    },
+    {
+        "name": "Stand-up Comedy",
+        "magic_number": "11559"
+    },
+    {
+        "name": "Steamy Romantic Movies",
+        "magic_number": "35800"
+    },
+    {
+        "name": "Steamy Thrillers",
+        "magic_number": "972"
+    },
+    {
+        "name": "Supernatural Horror Movies",
+        "magic_number": "42023"
+    },
+    {
+        "name": "Supernatural Thrillers",
+        "magic_number": "11140"
+    },
+    {
+        "name": "Tearjerkers",
+        "magic_number": "6384"
+    },
+    {
+        "name": "Teen Comedies",
+        "magic_number": "3519"
+    },
+    {
+        "name": "Teen Dramas",
+        "magic_number": "9299"
+    },
+    {
+        "name": "Teen Screams",
+        "magic_number": "52147"
+    },
+    {
+        "name": "Teen TV Shows",
+        "magic_number": "60951"
+    },
+    {
+        "name": "Thrillers",
+        "magic_number": "8933"
+    },
+    {
+        "name": "Travel & Adventure Documentaries",
+        "magic_number": "1159"
+    },
+    {
+        "name": "TV Action & Adventure",
+        "magic_number": "10673"
+    },
+    {
+        "name": "TV Cartoons",
+        "magic_number": "11177"
+    },
+    {
+        "name": "TV Comedies",
+        "magic_number": "10375"
+    },
+    {
+        "name": "TV Documentaries",
+        "magic_number": "10105"
+    },
+    {
+        "name": "TV Dramas",
+        "magic_number": "11714"
+    },
+    {
+        "name": "TV Horror",
+        "magic_number": "83059"
+    },
+    {
+        "name": "TV Mysteries",
+        "magic_number": "4366"
+    },
+    {
+        "name": "TV Sci-Fi & Fantasy",
+        "magic_number": "1372"
+    },
+    {
+        "name": "TV Shows",
+        "magic_number": "83"
+    },
+    {
+        "name": "Urban & Dance Concerts",
+        "magic_number": "9472"
+    },
+    {
+        "name": "Vampire Horror Movies",
+        "magic_number": "75804"
+    },
+    {
+        "name": "Werewolf Horror Movies",
+        "magic_number": "75930"
+    },
+    {
+        "name": "Westerns",
+        "magic_number": "7700"
+    },
+    {
+        "name": "World Music Concerts",
+        "magic_number": "2856"
+    },
+    {
+        "name": "Zombie Horror Movies",
+        "magic_number": "75405"
+    }
+]

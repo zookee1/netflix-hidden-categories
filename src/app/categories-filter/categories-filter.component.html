@@ -1,8 +1,7 @@
-Categories:
+Search:
 <input [(ngModel)]="filterStrings" />
-{{ categories_object }}
 
 <h2>Overview</h2>
-<div *ngFor="let d of (categories_object | filter: filterStrings)">
-  {{ d }}
+<div *ngFor="let c of (categories | filter: filterStrings)">
+  <a href="https://www.netflix.com/browse/genre/{{c}}" target="_blank">{{ c }}</a>
 </div>
