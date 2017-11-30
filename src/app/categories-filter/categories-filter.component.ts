@@ -16,7 +16,7 @@ export class FilterPipe implements PipeTransform {
       return values;
     }
 
-    return values.filter(v => v.indexOf(filter) >= 0);
+    return values.filter(v => v.name.toLowerCase().indexOf(filter.toLowerCase()) >= 0);
   }
 }
 
@@ -34,7 +34,7 @@ export class CategoriesFilterComponent implements OnInit {
   }
 
   public getJSON(): Observable<any> {
-    return this.http.get('assets/categories_array.1.json');
+    return this.http.get('assets/categories_objecs.json');
   }
 
   ngOnInit() {}
